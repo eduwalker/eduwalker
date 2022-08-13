@@ -2,7 +2,7 @@
 
 
 <!-- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java Tester
 - 🤔 I’m looking for help with PHP
 - 📫 How to reach me: eduardo.olidev@gmail.com
 
