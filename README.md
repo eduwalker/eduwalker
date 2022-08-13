@@ -2,15 +2,15 @@
 
 
 <!-- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Java Tester
+- 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with PHP
 - 📫 How to reach me: eduardo.olidev@gmail.com
 
 
 <div align="center">
   <a href="https://github.com/eduwalker">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduwalker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduwalker&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduwalker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduwalker&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
