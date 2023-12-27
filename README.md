@@ -32,6 +32,4 @@
  <a href="https://discord.gg/3ybhY8wm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eduardo.olidev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/eduardo-oliveira-910b6024b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-![snake gif](https://github.com/eduwalker/eduwalker/blob/output/github-contribution-grid-snake.gif)
   </div>
