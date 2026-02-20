@@ -41,9 +41,7 @@ Evolução contínua em:
 ---
 
 ## Contato
-
-LinkedIn: (seu link)  
-Email: (seu email profissional)
+Email: eduardooliveira3440@gmail.com
  
 </div>
 
@@ -64,6 +62,6 @@ Email: (seu email profissional)
 <div>
   <a href="https://instagram.com/eduwallker" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/3ybhY8wm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:eduardo.olidev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eduardooliveira3440@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/eduardo-oliveira-910b6024b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
