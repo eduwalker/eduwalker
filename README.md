@@ -1,15 +1,49 @@
-### Hi there 👋
+# Eduardo Oliveira
 
+Backend Engineer | Arquitetura de Software | APIs Escaláveis
 
-<!-- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with PHP
-- 📫 How to reach me: eduardo.olidev@gmail.com
+Desenvolvedor com experiência profissional na construção de APIs, sistemas internos e dashboards corporativas.  
+Atuação focada em arquitetura limpa, modelagem eficiente de dados e desenvolvimento de sistemas sustentáveis.
 
+---
 
-<div align="center">
-  <a href="https://github.com/eduwalker">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eduwalker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduwalker&layout=compact&langs_count=7&theme=dark"/>
+## Especialidades
+
+• Desenvolvimento de APIs REST bem estruturadas  
+• Arquitetura em camadas (Controller, Service, Repository)  
+• Modelagem relacional com PostgreSQL e MySQL  
+• Autenticação e autorização com JWT  
+• Integração entre serviços e automações  
+• Organização de projetos por domínio  
+• Dockerização e ambientes isolados  
+• Aplicação prática de SOLID e separação de responsabilidades  
+
+---
+
+## Tecnologias
+
+Backend: Python, Java, Node.js  
+Frontend: React, Next.js  
+Banco de Dados: PostgreSQL, MySQL  
+Infra: Docker, Docker Compose  
+
+---
+
+## Foco Atual
+
+Evolução contínua em:
+
+- Arquitetura de sistemas
+- Testabilidade e qualidade de código
+- Performance e modelagem de dados
+- Engenharia orientada a boas práticas
+
+---
+
+## Contato
+
+LinkedIn: (seu link)  
+Email: (seu email profissional)
  
 </div>
 
